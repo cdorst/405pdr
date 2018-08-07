@@ -43,7 +43,7 @@
             <img class="card-img" src="../assets/home/storm.jpeg" alt="Card image">
             <div class="card-img-overlay text-center">
               <h4>Hail Catastrophe Management</h4>
-              <a href="#" class="btn btn-danger">Contact Us <i class="fal fa-angle-right"></i></a>
+              <a href="mailto:mike@405pdr.com" class="btn btn-danger">Email mike@405pdr.com</a>
             </div>
           </div>
         </div>

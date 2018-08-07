@@ -15,9 +15,9 @@
         <router-link class="nav-item" tag="li" active-class="active" to="/services">
           <a class="nav-link">Services</a>
         </router-link>
-        <router-link class="nav-item" tag="li" active-class="active" to="/contact">
+        <!--<router-link class="nav-item" tag="li" active-class="active" to="/contact">
           <a class="nav-link">Contact</a>
-        </router-link>
+        </router-link>-->
       </ul>
       <span class="navbar-text">
         <a href="tel:+18336524245">

@@ -1,7 +1,7 @@
 <template>
   <footer class="footer bg-dark text-center">
     <div class="container">
-      <a class="text-white pr-3" href="https://facebook.com">
+      <!--<a class="text-white pr-3" href="https://facebook.com">
         <i class="fab fa-facebook-square fa-lg"></i>
       </a>
       <a class="text-white" href="https://instagram.com">
@@ -9,7 +9,7 @@
       </a>
       <a class="text-white pl-3" href="https://instagram.com">
         <i class="fab fa-youtube-square fa-lg"></i>
-      </a>
+      </a>-->
     </div>
   </footer>
 </template>
