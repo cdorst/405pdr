@@ -84,9 +84,9 @@
                 </div>
               </div>
               <div class="card text-dark bg-light">
-                <img class="card-img-top" src="../assets/services/corrosion-1.jpg" alt="Dents are massaged back out from the underside of the panel">
+                <img class="card-img-top" src="../assets/services/corrosion-1.jpg" alt="Access holes were left damaged by an unskilled PDR technician">
                 <div class="card-body">
-                  <p class="card-text small">Dents are massaged back out from the underside of the panel</p>
+                  <p class="card-text small">Access holes were left damaged by an unskilled PDR technician</p>
                 </div>
               </div>
             </div>
