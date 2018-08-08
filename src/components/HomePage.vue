@@ -8,7 +8,7 @@
             <img class="card-img-top" src="../assets/home/card0.jpg">
             <div class="card-body">
               <h5 class="card-title">Paintless Dent Repair</h5>
-              <router-link to="services#paintless-dent-repair" class="card-link">
+              <router-link to="services" class="card-link">
                 Learn more <i class="fal fa-angle-right"></i>
               </router-link>
             </div>

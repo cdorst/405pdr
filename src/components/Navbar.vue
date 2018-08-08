@@ -13,7 +13,10 @@
           <a class="nav-link">Home</a>
         </router-link>
         <router-link class="nav-item" tag="li" active-class="active" to="/services">
-          <a class="nav-link">Services</a>
+          <a class="nav-link">About Our Services</a>
+        </router-link>
+        <router-link class="nav-item" tag="li" active-class="active" to="/portfolio">
+          <a class="nav-link">Portfolio</a>
         </router-link>
         <!--<router-link class="nav-item" tag="li" active-class="active" to="/contact">
           <a class="nav-link">Contact</a>

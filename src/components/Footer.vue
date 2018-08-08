@@ -1,15 +1,15 @@
 <template>
-  <footer class="footer bg-dark text-center">
+  <footer class="footer bg-light text-center">
     <div class="container">
-      <!--<a class="text-white pr-3" href="https://facebook.com">
+      <a class="text-dark pr-3" href="https://facebook.com/405-PDR-901136290077736/">
         <i class="fab fa-facebook-square fa-lg"></i>
       </a>
-      <a class="text-white" href="https://instagram.com">
+      <a class="text-dark" href="https://instagram.com/405pdr">
         <i class="fab fa-instagram fa-lg"></i>
       </a>
-      <a class="text-white pl-3" href="https://instagram.com">
+      <a class="text-dark pl-3" href="https://www.youtube.com/channel/UCp366OzueWxyqWkDHiBatZA">
         <i class="fab fa-youtube-square fa-lg"></i>
-      </a>-->
+      </a>
     </div>
   </footer>
 </template>

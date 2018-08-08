@@ -1,7 +1,9 @@
 <template>
-  <div class="jumbotron jumbotron-fluid">
-    <div class="container text-center">
-      <img src="../assets/logo.svg" class="img-fluid logo" alt="405 PDR Hail Dings Dents">
+  <div class="bg-dark">
+    <div class="jumbotron jumbotron-fluid">
+      <div class="container text-center">
+        <img src="../assets/logo.svg" class="img-fluid logo" alt="405 PDR Hail Dings Dents">
+      </div>
     </div>
   </div>
 </template>
