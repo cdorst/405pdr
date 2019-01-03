@@ -155,8 +155,8 @@
             </p>
             <h2 id="mobile-repair-procedure" ref="mobile-repair-procedure">Repair Procedure</h2>
             <ol>
-              <li>Hail Strategies will estimate your vehicle for repairs and work with your insurance provider to ensure accuracy of the estimate.</li>
-              <li>All necessary parts will be ordered prior to repairs and a repair date is scheduled. Hail Strategies only uses O.E.M. parts directly from the manufacturer. Some insurance policies allow for aftermarket parts, we can review your policy and discuss part options during the estimating process.</li>
+              <li>405 PDR will estimate your vehicle for repairs and work with your insurance provider to ensure accuracy of the estimate.</li>
+              <li>All necessary parts will be ordered prior to repairs and a repair date is scheduled. 405 PDR only uses O.E.M. parts directly from the manufacturer. Some insurance policies allow for aftermarket parts, we can review your policy and discuss part options during the estimating process.</li>
               <li>On the day of repairs it is not necessary for someone to be present however, keys will be needed to operate windows, sunroof etc.</li>
               <li>After all of the dents have been repaired and trim parts replaced your vehicle's exterior will be detailed by hand before a final quality inspection.</li>
               <li>After a final quality inspection repairs are complete and cleanup time is typically 30 minutes. Your vehicle will be restored without ever having to step foot into a shop!</li>
